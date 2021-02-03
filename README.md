@@ -1,8 +1,3 @@
 # API-Learning
 This repository contain a number of basics models
-
-..=====================================================================================..
-|| Model                     || Description                          || Branch\ file   ||
-||+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++||
-|| Authotisation             || login/sing up                        || web page Autho ||
-+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Authotisation (login/sing up)
